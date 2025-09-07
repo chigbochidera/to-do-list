@@ -374,17 +374,3 @@ If you encounter any issues or have questions:
 2. Create a new issue with detailed information
 3. Include error logs and steps to reproduce
 
-## 🎯 Roadmap
-
-- [ ] Add task categories management
-- [ ] Implement task sharing between users
-- [ ] Add file attachments to tasks
-- [ ] Create task templates
-- [ ] Add email notifications
-- [ ] Implement task dependencies
-- [ ] Add time tracking
-- [ ] Create admin dashboard
-
----
-
-**Built with ❤️ using Node.js, Express, and MongoDB Atlas**
